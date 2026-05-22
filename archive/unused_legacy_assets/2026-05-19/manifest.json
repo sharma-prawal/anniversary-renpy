@@ -1,0 +1,869 @@
+{
+  "created_at": "2026-05-19T15:36:44.130Z",
+  "archive_root": "archive/unused_legacy_assets/2026-05-19",
+  "entries": [
+    {
+      "original": "game/backgrounds/bg_ch10_storm_inside.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch10_storm_inside.png",
+      "category": "legacy_backgrounds",
+      "bytes": 8150059,
+      "sha256": "4f32f78d0b643c68c7b9c01a02bc47b3d3703c3dd664f2f11588184272f1419e"
+    },
+    {
+      "original": "game/backgrounds/bg_ch10_storm_outside.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch10_storm_outside.png",
+      "category": "legacy_backgrounds",
+      "bytes": 8215690,
+      "sha256": "cb49e4494405d332d9a51a1f16e098f2de115b6d5f473c90c225a9746c26e28b"
+    },
+    {
+      "original": "game/backgrounds/bg_ch11_apartment.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch11_apartment.png",
+      "category": "legacy_backgrounds",
+      "bytes": 8329821,
+      "sha256": "d21092b4976456620f6d8669fb7c54e0c09e9582279cb4949504d42568615301"
+    },
+    {
+      "original": "game/backgrounds/bg_ch11_gifts.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch11_gifts.png",
+      "category": "legacy_backgrounds",
+      "bytes": 7864368,
+      "sha256": "88616d4f72b9023a9655210dd4576ed785ae92ef0c204a54d56750ad74933c7e"
+    },
+    {
+      "original": "game/backgrounds/bg_ch12_family.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch12_family.png",
+      "category": "legacy_backgrounds",
+      "bytes": 8130457,
+      "sha256": "e15d6daaf7f2a67d1a683cde3d2414af34b2bd172f98215a51440c4831eb878d"
+    },
+    {
+      "original": "game/backgrounds/bg_ch12_letters.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch12_letters.png",
+      "category": "legacy_backgrounds",
+      "bytes": 7296662,
+      "sha256": "06b59b3fe5c0d65d15d82886ddd469ece9e89a1cc33083f5307bf7e310351209"
+    },
+    {
+      "original": "game/backgrounds/bg_ch13_dawn_ethereal.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch13_dawn_ethereal.png",
+      "category": "legacy_backgrounds",
+      "bytes": 8117546,
+      "sha256": "7ca48fd42e53c4d0eedc88b239fa76a91e808eec926184cc89105764d06c6069"
+    },
+    {
+      "original": "game/backgrounds/bg_ch13_paths.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch13_paths.png",
+      "category": "legacy_backgrounds",
+      "bytes": 8058644,
+      "sha256": "84904044c5be6cd7db1ac4426a146b2fcc425684647501fb56c03ead8dc26804"
+    },
+    {
+      "original": "game/backgrounds/bg_ch14_engagement.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch14_engagement.png",
+      "category": "legacy_backgrounds",
+      "bytes": 6659744,
+      "sha256": "c1208ef3b78eeb86c9afe81255f2d072caf7f3c035d6ec09e97aa094f9af6b61"
+    },
+    {
+      "original": "game/backgrounds/bg_ch14_wedding.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch14_wedding.png",
+      "category": "legacy_backgrounds",
+      "bytes": 8773925,
+      "sha256": "82509547dc6f9bcc8811cc3d422b232871595662d15e3c4929105c67171d7d1d"
+    },
+    {
+      "original": "game/backgrounds/bg_ch14_wedding_party.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch14_wedding_party.png",
+      "category": "legacy_backgrounds",
+      "bytes": 7983133,
+      "sha256": "8e6e435ee9bb3d9800505dba2b0420fbe5c849eb899c85508a0f1f30c43a0abd"
+    },
+    {
+      "original": "game/backgrounds/bg_ch15_floating.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch15_floating.png",
+      "category": "legacy_backgrounds",
+      "bytes": 5994384,
+      "sha256": "bcaf46f694fdb93ec8acd4a498a0bd3f2a53850660eacd9f4e0ff82c757b890c"
+    },
+    {
+      "original": "game/backgrounds/bg_ch15_light.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch15_light.png",
+      "category": "legacy_backgrounds",
+      "bytes": 5100492,
+      "sha256": "3968488f8d29616e590290943762bda811db3862a29beed64c4a712a5219d2c2"
+    },
+    {
+      "original": "game/backgrounds/bg_ch1_laptop_closeup.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch1_laptop_closeup.png",
+      "category": "legacy_backgrounds",
+      "bytes": 5492315,
+      "sha256": "aa467eab4d148b8ab2271105efecaa592b9afa76998269aba98f11eb78b1d4d8"
+    },
+    {
+      "original": "game/backgrounds/bg_ch1_room_night.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch1_room_night.png",
+      "category": "legacy_backgrounds",
+      "bytes": 6910444,
+      "sha256": "60e0b6d23b5d66d268962edb4ac0e55bc8bae134b7c6b07def9bed4cc9cae21a"
+    },
+    {
+      "original": "game/backgrounds/bg_ch2_social_profile.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch2_social_profile.png",
+      "category": "legacy_backgrounds",
+      "bytes": 5629241,
+      "sha256": "07eaab399db0b2e8dadc20edba3241d74eb9f26f31dccd181ad2f7361bf651ef"
+    },
+    {
+      "original": "game/backgrounds/bg_ch3_chat_room.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch3_chat_room.png",
+      "category": "legacy_backgrounds",
+      "bytes": 5441205,
+      "sha256": "8b869a7f76c9fe99a889e6c00251f68dfebc5cb8b44362f864da90fbd5673445"
+    },
+    {
+      "original": "game/backgrounds/bg_ch4_aashna_closeup.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch4_aashna_closeup.png",
+      "category": "legacy_backgrounds",
+      "bytes": 6266140,
+      "sha256": "99c37efd07cf916acb7dc1d40329e070091abd0f4c98c6ab81fbf8f81a9625d4"
+    },
+    {
+      "original": "game/backgrounds/bg_ch4_office_full.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch4_office_full.png",
+      "category": "legacy_backgrounds",
+      "bytes": 6885528,
+      "sha256": "40a356ae63fbbd9b976ee3206b7227acfb15f85907c4ae0ebc06eed3a22b97d4"
+    },
+    {
+      "original": "game/backgrounds/bg_ch5_office_corridor.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch5_office_corridor.png",
+      "category": "legacy_backgrounds",
+      "bytes": 7857167,
+      "sha256": "741e2b9cfb98fa66bb96bd496a681438c9d371535cf396d59683c3de63583e74"
+    },
+    {
+      "original": "game/backgrounds/bg_ch5_office_day.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch5_office_day.png",
+      "category": "legacy_backgrounds",
+      "bytes": 8789682,
+      "sha256": "9a0d26d73e45fb11920ec1f6ee04000874b982525397c76bd8f5073dae14e701"
+    },
+    {
+      "original": "game/backgrounds/bg_ch6_office_gift.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch6_office_gift.png",
+      "category": "legacy_backgrounds",
+      "bytes": 7579423,
+      "sha256": "0e83baf961b1d84792f7c291e026a0a7f6ad3a71658252ccc518e4a06cfec065"
+    },
+    {
+      "original": "game/backgrounds/bg_ch7_restaurant.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch7_restaurant.png",
+      "category": "legacy_backgrounds",
+      "bytes": 8560993,
+      "sha256": "1a821ab231a170688ac2b087d77e699bc3ef2c3652a58d654b4caba52004e4ec"
+    },
+    {
+      "original": "game/backgrounds/bg_ch7_restaurant_window.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch7_restaurant_window.png",
+      "category": "legacy_backgrounds",
+      "bytes": 8286896,
+      "sha256": "9a4e030fcf21f5fb0798da1fc29746edc5c49af9aeddb9a23effcc11a3ba8746"
+    },
+    {
+      "original": "game/backgrounds/bg_ch8_clearing.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch8_clearing.png",
+      "category": "legacy_backgrounds",
+      "bytes": 7683140,
+      "sha256": "f32f746f46b4a3b10850e31a7fb57025e232819db620fa18b360f99ebb9b91bd"
+    },
+    {
+      "original": "game/backgrounds/bg_ch8_clearing_stars.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch8_clearing_stars.png",
+      "category": "legacy_backgrounds",
+      "bytes": 6991525,
+      "sha256": "d76f83545a1fd055498cfd3872ddcf15c6ede66973809db3802945fefc77e7d8"
+    },
+    {
+      "original": "game/backgrounds/bg_ch9_garden_dawn.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch9_garden_dawn.png",
+      "category": "legacy_backgrounds",
+      "bytes": 7605712,
+      "sha256": "b3274eba09750db0c0e769ef175b53a8ac1c8062003b5ed465a935b01893b845"
+    },
+    {
+      "original": "game/backgrounds/bg_ch9_study_morning.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_ch9_study_morning.png",
+      "category": "legacy_backgrounds",
+      "bytes": 7049591,
+      "sha256": "64ef400a4d2d0e3e27aacddee1bd4438eb1a4dc5ab6c9c0ceff9a06425da7ebd"
+    },
+    {
+      "original": "game/backgrounds/bg_main_menu.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/backgrounds/bg_main_menu.png",
+      "category": "legacy_backgrounds",
+      "bytes": 7570625,
+      "sha256": "1cd1ebe78521903f6b9f07b1f1841e8e3c37e80fd6e87177899fe933fbae7e66"
+    },
+    {
+      "original": "game/sprites/.DS_Store",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites/.DS_Store",
+      "category": "legacy_sprites",
+      "bytes": 6148,
+      "sha256": "e99a07ff86140f16d831f7d5c8e82b1635885bd45364a19322d8444c597a0b62"
+    },
+    {
+      "original": "game/sprites/aashna/emotional.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites/aashna/emotional.png",
+      "category": "legacy_sprites",
+      "bytes": 764734,
+      "sha256": "1b3a428444c9684e86aa004815ceba904c5f85d1d9f8ba6c7dd8e969e837e03c"
+    },
+    {
+      "original": "game/sprites/aashna/happy.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites/aashna/happy.png",
+      "category": "legacy_sprites",
+      "bytes": 751091,
+      "sha256": "8bf8283583139ed98dfa4343d81e85b8f5ca2b6c98054656b9cc46670c183e3c"
+    },
+    {
+      "original": "game/sprites/aashna/laughing.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites/aashna/laughing.png",
+      "category": "legacy_sprites",
+      "bytes": 767837,
+      "sha256": "bf0872d8ca124b0febca413b414b755e63d6de283416924651dc18df551ccf1e"
+    },
+    {
+      "original": "game/sprites/aashna/loving.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites/aashna/loving.png",
+      "category": "legacy_sprites",
+      "bytes": 733330,
+      "sha256": "f095ec0fc7da87f4b3f416029a0176d54fabc3755529f4b3fca69d19aa51f02b"
+    },
+    {
+      "original": "game/sprites/aashna/neutral.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites/aashna/neutral.png",
+      "category": "legacy_sprites",
+      "bytes": 762397,
+      "sha256": "b6ecdc1bfa5eadf5c252e35a6f4b2eec794bc543a2cc4b9e4bae33a408d3b4ba"
+    },
+    {
+      "original": "game/sprites/aashna/shy.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites/aashna/shy.png",
+      "category": "legacy_sprites",
+      "bytes": 755057,
+      "sha256": "86cced811fe328668bc61559afb5d38e308af8211b74fc053955c7229ba9a922"
+    },
+    {
+      "original": "game/sprites/aashna/surprised.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites/aashna/surprised.png",
+      "category": "legacy_sprites",
+      "bytes": 773717,
+      "sha256": "3f85f136282e3b2849c5a342d27ea928de8e2fb6540aa426498e461160961228"
+    },
+    {
+      "original": "game/sprites/prawal/happy.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites/prawal/happy.png",
+      "category": "legacy_sprites",
+      "bytes": 1051074,
+      "sha256": "21307a2c80682e0c95efecff87c93a4ce126d380f683279c6b177bc5865d50ae"
+    },
+    {
+      "original": "game/sprites/prawal/loving.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites/prawal/loving.png",
+      "category": "legacy_sprites",
+      "bytes": 1045932,
+      "sha256": "92be40daf5df4931f4bb759f0abd6e8eb6768c10e660c0aeef59ed33c8d4857c"
+    },
+    {
+      "original": "game/sprites/prawal/neutral.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites/prawal/neutral.png",
+      "category": "legacy_sprites",
+      "bytes": 1055003,
+      "sha256": "44da84df58b40ca8f075c978642e1b8b2088877cfa4b02ddf606a82b218ded49"
+    },
+    {
+      "original": "game/sprites/prawal/surprised.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites/prawal/surprised.png",
+      "category": "legacy_sprites",
+      "bytes": 1058836,
+      "sha256": "a38b73e6eca44e9ee700005d44348dc0aa04de150d5bd107bec247287566e160"
+    },
+    {
+      "original": "game/sprites/prawal/thinking.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites/prawal/thinking.png",
+      "category": "legacy_sprites",
+      "bytes": 1046617,
+      "sha256": "6528e18dd9488b4e327b72101e425cadcae009cf404c42d011a4298324b1a203"
+    },
+    {
+      "original": "game/images/props/prop_book.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images/props/prop_book.png",
+      "category": "legacy_procedural_props",
+      "bytes": 12858,
+      "sha256": "633c4d4c30553660c91d5eead850df8460c9aaf53689329811d564d9d0f97296"
+    },
+    {
+      "original": "game/images/props/prop_earphones.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images/props/prop_earphones.png",
+      "category": "legacy_procedural_props",
+      "bytes": 11999,
+      "sha256": "7cc9776a771445968cd4c52ff061a463b315ac7bc2c90f66e0d699602fec4e90"
+    },
+    {
+      "original": "game/images/props/prop_framed_photos.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images/props/prop_framed_photos.png",
+      "category": "legacy_procedural_props",
+      "bytes": 13830,
+      "sha256": "3e23088810f76752361da4ced040473b72ecac6b9e8865cc4338c4d2f9103f68"
+    },
+    {
+      "original": "game/images/props/prop_letters.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images/props/prop_letters.png",
+      "category": "legacy_procedural_props",
+      "bytes": 13052,
+      "sha256": "6ae5a906befe6c4ab1c28fb0beefef31e3e5a077d848ce43ae15edcdc8e2574a"
+    },
+    {
+      "original": "game/images/props/prop_mug.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images/props/prop_mug.png",
+      "category": "legacy_procedural_props",
+      "bytes": 13803,
+      "sha256": "9de240c8fa4b7cba942464b19980b6d6d93a868e10dcc97183b28ed7a9a59f9b"
+    },
+    {
+      "original": "game/images/props/prop_rings.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images/props/prop_rings.png",
+      "category": "legacy_procedural_props",
+      "bytes": 19016,
+      "sha256": "9eeecec0248cbc4ef63c0b0a5c47e88401540cd8bc162cfcc8d20be2bcd588f5"
+    },
+    {
+      "original": "game/images/ui/nameplate.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images/ui/nameplate.png",
+      "category": "unused_ui",
+      "bytes": 1543,
+      "sha256": "516ec3ae096a28e7fec519e6a75825c4fffba6125b357978aa685e3ee6ab0f91"
+    },
+    {
+      "original": "game/images/ui/ui_chat_bubbles.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images/ui/ui_chat_bubbles.png",
+      "category": "unused_ui",
+      "bytes": 3160251,
+      "sha256": "50defc9820adcfe805dd59cc48a4fc4b8420147bceb750d1c3b87532af9209c2"
+    },
+    {
+      "original": "game/images/ui/watermark_mask.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images/ui/watermark_mask.png",
+      "category": "unused_ui",
+      "bytes": 29336,
+      "sha256": "00fc5a8cbcf6228537ffcb7fd8e419d7f99b23986d5ef451c499ac4e3d300f66"
+    },
+    {
+      "original": "game/images_ai/_cutouts/prop_book.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images_ai/_cutouts/prop_book.png",
+      "category": "ai_prop_workfiles",
+      "bytes": 1669792,
+      "sha256": "7233a9da1a5ab4d1ceada1b220566ed6e00dcf1c317b75d766f4bb04f4035ae0"
+    },
+    {
+      "original": "game/images_ai/_cutouts/prop_earphones.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images_ai/_cutouts/prop_earphones.png",
+      "category": "ai_prop_workfiles",
+      "bytes": 1562666,
+      "sha256": "94594cf9039002c7f081bf3535ab42c8fe64aa877a2d009acffa74e03a9de366"
+    },
+    {
+      "original": "game/images_ai/_cutouts/prop_framed_photos.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images_ai/_cutouts/prop_framed_photos.png",
+      "category": "ai_prop_workfiles",
+      "bytes": 1924930,
+      "sha256": "7cb62ee948be56616fb665ed98da5e238bf993099c1752069d56917a0dfd7168"
+    },
+    {
+      "original": "game/images_ai/_cutouts/prop_letters.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images_ai/_cutouts/prop_letters.png",
+      "category": "ai_prop_workfiles",
+      "bytes": 2135829,
+      "sha256": "8de7fb0a9bafaae40ad144e1ab5d63e3d4d14ab7a85611d8c595ee75f2eb9d80"
+    },
+    {
+      "original": "game/images_ai/_cutouts/prop_mug.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images_ai/_cutouts/prop_mug.png",
+      "category": "ai_prop_workfiles",
+      "bytes": 1371742,
+      "sha256": "8c15df035adec2b43627af9e119322ea87f98179077aff249e548a735c55fe7d"
+    },
+    {
+      "original": "game/images_ai/_cutouts/prop_rings.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images_ai/_cutouts/prop_rings.png",
+      "category": "ai_prop_workfiles",
+      "bytes": 1908133,
+      "sha256": "167b5e6b41347a330c71927d366ece6a974cc7c62e2944f8896ca02a3f8eb343"
+    },
+    {
+      "original": "game/images_ai/_sources/prop_book_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images_ai/_sources/prop_book_source.png",
+      "category": "ai_prop_workfiles",
+      "bytes": 1443096,
+      "sha256": "3f209d4f646ae37b8d809891e5919ccafde55b740a370b5f67e68218e2f5b94c"
+    },
+    {
+      "original": "game/images_ai/_sources/prop_earphones_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images_ai/_sources/prop_earphones_source.png",
+      "category": "ai_prop_workfiles",
+      "bytes": 1319812,
+      "sha256": "3beb0cb17dc54679514d0936b3ab23bcfefe986702dcd77d5769d4022a65c0d5"
+    },
+    {
+      "original": "game/images_ai/_sources/prop_framed_photos_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images_ai/_sources/prop_framed_photos_source.png",
+      "category": "ai_prop_workfiles",
+      "bytes": 1650975,
+      "sha256": "2f8d32cc10f74d66635abb46166d9586d0f3e8f2327a83a20df528a6759acf44"
+    },
+    {
+      "original": "game/images_ai/_sources/prop_letters_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images_ai/_sources/prop_letters_source.png",
+      "category": "ai_prop_workfiles",
+      "bytes": 1835021,
+      "sha256": "dd1b82c02ce7f248c5ae66fa08da2083a5f655d49e69e801af4df9e64d11df06"
+    },
+    {
+      "original": "game/images_ai/_sources/prop_mug_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images_ai/_sources/prop_mug_source.png",
+      "category": "ai_prop_workfiles",
+      "bytes": 1191735,
+      "sha256": "ca2ed795862011a834f06dc8e74ef956df43636d022d610e9e620ec69ebad6b4"
+    },
+    {
+      "original": "game/images_ai/_sources/prop_rings_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/images_ai/_sources/prop_rings_source.png",
+      "category": "ai_prop_workfiles",
+      "bytes": 1630452,
+      "sha256": "1fd6c36ca47e6f4cd9cb0afd21b9c5d6ca15fd17aabdacbc9f8237c2dccda690"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_cutouts/date_happy.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_cutouts/date_happy.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1637089,
+      "sha256": "847207eabac287317bcba9f5106591f5fc460a4f3cdbc08ecb90116168353df8"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_cutouts/date_loving.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_cutouts/date_loving.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1723850,
+      "sha256": "99b19f02a67749a021b5a442c59fec081b121c96e1f9cec44d1844247bdf2938"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_cutouts/date_neutral.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_cutouts/date_neutral.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1679494,
+      "sha256": "50ba91be155914b1da607fd9281855e6cfaebe4837f69b5501e409828e1fcf23"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_cutouts/family_happy.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_cutouts/family_happy.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1437072,
+      "sha256": "693ca685e9eb0770c623300c5f69b1f3633204ff8b600527383d357bd7499119"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_cutouts/formal_loving.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_cutouts/formal_loving.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1578530,
+      "sha256": "1063ce1e8e63006f81ebc656a31ba724c478a5aa3b3f5f04f6f2d8bc0d94a3b5"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_cutouts/happy.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_cutouts/happy.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1597318,
+      "sha256": "2d82edc59ea646f6f742e4761f8a5d32cee14943303d59a57d6118b8e83096ae"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_cutouts/loving.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_cutouts/loving.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1672496,
+      "sha256": "6b28afa99611b580cf1b338d7b5bad3a58ddb9e9e8eb13315f32996c050fc820"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_cutouts/neutral.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_cutouts/neutral.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1613125,
+      "sha256": "d3cf7ec739141e04d3de26bf551311aa527203a57790a1d5eb474cc0217f1403"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_cutouts/office_happy.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_cutouts/office_happy.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1534007,
+      "sha256": "ed1ce8c495383311520923cabe2beb04a2d3b7725ee506235a890132bbf9ca77"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_cutouts/office_neutral.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_cutouts/office_neutral.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1507551,
+      "sha256": "e8dc0a1474618702d31864cc773422d838f59b887171a2d56431652a5b5ec826"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_cutouts/storm_neutral.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_cutouts/storm_neutral.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1631443,
+      "sha256": "d761bf833aa63f07ee4440e90f0a967b8d764c0390733d56d075716cd242e607"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_cutouts/surprised.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_cutouts/surprised.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1610132,
+      "sha256": "d66319a001af8331b09129a6fe934eb705d1d7bd2dc316fca22e0edc192206cd"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_cutouts/thinking.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_cutouts/thinking.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1713125,
+      "sha256": "46b7206c9ef0a0ed0f601abac195a28c6960149fa03fc86d2dbbb0bf1b755831"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_sources/date_happy_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_sources/date_happy_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1427559,
+      "sha256": "a0708a8c60636a573452b16393a0b25f566cf1aae5e2341839581caed802bc5f"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_sources/date_loving_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_sources/date_loving_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1487311,
+      "sha256": "e496699a3ae7507631f4614b4e5727da039fb8e3248a3aee2cd14384a8f9a8b5"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_sources/date_neutral_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_sources/date_neutral_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1457505,
+      "sha256": "eb62f29fd5b6bba91b066f5c781b5edf6e0f0edd2b7403c4d4f8b585155a5fcb"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_sources/family_happy_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_sources/family_happy_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1282302,
+      "sha256": "d1f71b7f1408c99d4c32cae5f9d120e8a3291a6c846ae4db15296105a26bd77f"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_sources/formal_loving_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_sources/formal_loving_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1389578,
+      "sha256": "28c573167541655a3d5c2870ccbb2e604b8fdba94f01938a0fd97807a69eec5c"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_sources/happy_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_sources/happy_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1403352,
+      "sha256": "3950981665c7d89fda3a043f19f461632c3fbc9857d27ad704c88a55b457c0a5"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_sources/loving_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_sources/loving_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1459886,
+      "sha256": "a2f67bf418df7ecf096a0baf26709665e1e2877286963b6f8612025ae52a9202"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_sources/neutral_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_sources/neutral_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1408740,
+      "sha256": "1b569c10459ee0f1f626845278c0fcfc1bcdf6cb933ae693e58fcaa6b37eb8bb"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_sources/office_happy_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_sources/office_happy_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1346255,
+      "sha256": "9fc5c35d5d5d458c7200e2dcf58ded16c1b61098348efadf4f40983ebb155dae"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_sources/office_neutral_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_sources/office_neutral_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1335042,
+      "sha256": "73156a8cb6cbf349e7da3dce64fc224992eeff3b060637c92692c517925b0028"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_sources/storm_neutral_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_sources/storm_neutral_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1432044,
+      "sha256": "2c6f9194033f8af7c47607ac2f4d491d6374086b1f665c429fe44decfb796e51"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_sources/surprised_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_sources/surprised_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1413431,
+      "sha256": "e8f8a4804e8e18c71f02bf9b9aa7ae2d845a320eb950e4b9281129c0f43d9336"
+    },
+    {
+      "original": "game/sprites_ai/prawal/_sources/thinking_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/prawal/_sources/thinking_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1491414,
+      "sha256": "ea337e77e0aac5cfba381c7c45530e477159ec7f41b0fb005837e087f6944982"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_cutouts/date_happy.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_cutouts/date_happy.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1596976,
+      "sha256": "f050d09faa5dd2951c0b48a56a7eb726d92e87deeeb0bcad9bad3a06a76a2893"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_cutouts/date_loving.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_cutouts/date_loving.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1669432,
+      "sha256": "b99141659410234326219c60987c986098765df43f8da514b05a79720b510cf2"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_cutouts/date_neutral.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_cutouts/date_neutral.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1632354,
+      "sha256": "ce22edd4649ac155afedfe05f85f446676d0b4c59978df489fc5816bcbba2d17"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_cutouts/date_shy.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_cutouts/date_shy.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1578457,
+      "sha256": "422e57ec8ac2c0e1492bc4e0e3b59722697084cfd03d32fae2acf372d9b4f2ca"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_cutouts/emotional.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_cutouts/emotional.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1674954,
+      "sha256": "630f956d01bab7780014ed244ec90d970e71e8221b497edf4fc21c208537f355"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_cutouts/family_happy.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_cutouts/family_happy.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1637292,
+      "sha256": "87f2922e32984702f109bdfe85a65a17aed60fb8359d06027636093bd6629fb0"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_cutouts/formal_loving.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_cutouts/formal_loving.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 2223868,
+      "sha256": "5baaa13baf410cef5a730f74bf516e006ea5b553b0163f7aab6e1eccc1cca88e"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_cutouts/happy.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_cutouts/happy.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1667365,
+      "sha256": "7be55536d85a27d3832566f07ededfa8a7e3b340cd116622eed1d3fb872c3fda"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_cutouts/laughing.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_cutouts/laughing.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1621781,
+      "sha256": "f159eb981bf3544bb413a92066b6d66941c88eac0a62b4831cc7e09e49f12eb8"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_cutouts/loving.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_cutouts/loving.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1658815,
+      "sha256": "92aa9202228a77b178b9771a214bc3ae01b761ad4e08979d20f2ebb0948c51fa"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_cutouts/neutral.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_cutouts/neutral.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1652280,
+      "sha256": "9f29e0d83e669f0be546d3fba4411da334e764dc91b1fce56faccdb5ca837e6b"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_cutouts/office_happy.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_cutouts/office_happy.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1569973,
+      "sha256": "354a352c5a49f3f2c8ad12fb197a329543e14eeababadee7ed7427a68b44c319"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_cutouts/office_neutral.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_cutouts/office_neutral.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1519036,
+      "sha256": "681d85a9228c51e437d79b9f1198d77da80797fa6ce6af72830845ba3556c0cd"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_cutouts/office_surprised.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_cutouts/office_surprised.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1571750,
+      "sha256": "224f5f764b7471bb0a0617a9a2705531a52b5b0ce5a0aace9a18847993961c7e"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_cutouts/shy.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_cutouts/shy.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1666885,
+      "sha256": "f960e12cfb1d90a56ec51fa93369ab3ef37314b93c914e1b083e65a43dd601dd"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_cutouts/storm_emotional.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_cutouts/storm_emotional.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1622029,
+      "sha256": "b9989a03e441094aa1625122623c5d685f5eea6291f6887eade405c4f5d104d3"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_cutouts/surprised.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_cutouts/surprised.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1692161,
+      "sha256": "4acc2d587228d7b788de2414ff9371fd8d36724c1f0867a089fa87df1e6ac3b1"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_sources/date_happy_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_sources/date_happy_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1399415,
+      "sha256": "0b1623ab67f08aa20554469fac2549920e199e75a662decef16c43787beabb15"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_sources/date_loving_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_sources/date_loving_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1454477,
+      "sha256": "7d7964610121212e01d7ae4f9dce12b0200c3a5a35238eb65748392766eb3dc8"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_sources/date_neutral_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_sources/date_neutral_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1426511,
+      "sha256": "27757a7d716a3bfddc91434388e2aaf522821e36455bb102114639476025081d"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_sources/date_shy_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_sources/date_shy_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1384537,
+      "sha256": "e89ad9586134fcb438918353b006d68f5851080f7e77602c45e726e5f6ddbe44"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_sources/emotional_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_sources/emotional_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1452085,
+      "sha256": "d6246db6cfe5a91a5b5608b7a3a192d0830e18506a401ba61f3ef7e0e6c8bb72"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_sources/family_happy_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_sources/family_happy_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1434326,
+      "sha256": "28d7a5e085d920841811ed696e21bdfe0b9968f1cdbc616c22fb39cc18c24e86"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_sources/formal_loving_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_sources/formal_loving_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1922886,
+      "sha256": "a9230708054e5c879ed52996ed9a6a8d2797877c89e3b123d4044256e688b247"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_sources/happy_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_sources/happy_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1454562,
+      "sha256": "c3c58de3f15baffa683bb0c1cce7e6a1994f5098c9f5e770c32c28a5b425c37c"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_sources/laughing_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_sources/laughing_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1415332,
+      "sha256": "b057f26ba3419c5f4967fbfa13193eae17f14cfdc255957473cb52dd3374bbc9"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_sources/loving_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_sources/loving_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1447188,
+      "sha256": "1d70f8213a785059e597a7bdc636bdb92f42daea1177fedab12760243bd7aa45"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_sources/neutral_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_sources/neutral_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1435145,
+      "sha256": "b821591e16ccb539cbf4301517ffa350fd642dbb28d7f49f0b12b919b87affb6"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_sources/office_happy_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_sources/office_happy_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1385699,
+      "sha256": "28a25c3027168e4e466251dc96a26a43b78fd27478e26eda85d0ccaac84aefec"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_sources/office_neutral_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_sources/office_neutral_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1331859,
+      "sha256": "c343194446471d994a710d5757a9a8a72c07ebe5e2143fe406c6c423beaea0f0"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_sources/office_surprised_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_sources/office_surprised_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1380676,
+      "sha256": "6ce809ab76c9f6245d14494e896bfcd3712c0e0bac7d551d114ca2adf8cf453a"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_sources/shy_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_sources/shy_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1450698,
+      "sha256": "19c54c7867b65ea06295c323e0ec0bdaa817dcdd316663988fcb09c645f26048"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_sources/storm_emotional_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_sources/storm_emotional_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1418108,
+      "sha256": "e9c8f67b489b409d2c7df22a6c5ef841075d6467b1df16e547eeaed63c1fa759"
+    },
+    {
+      "original": "game/sprites_ai/aashna/_sources/surprised_source.png",
+      "archived": "archive/unused_legacy_assets/2026-05-19/game/sprites_ai/aashna/_sources/surprised_source.png",
+      "category": "ai_sprite_workfiles",
+      "bytes": 1469174,
+      "sha256": "1c4fc084ed0cccaf852922802b532589e889827d678569f0390d4ef301a62143"
+    }
+  ],
+  "skipped": [],
+  "updated_at": "2026-05-19T15:43:17.411Z"
+}

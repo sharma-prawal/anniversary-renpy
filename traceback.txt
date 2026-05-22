@@ -1,0 +1,22 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+renpy.test.types.RenpyTestTimeoutError: TestCase timed out after 120.0 seconds.
+
+-- Full Traceback ------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "renpy/test/testexecution.py", line 549, in update
+    node_executor.execute()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "renpy/test/testexecution.py", line 487, in execute
+    self.check_for_timeout(now)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "renpy/test/testexecution.py", line 508, in check_for_timeout
+    raise RenpyTestTimeoutError(f"TestCase timed out after {_test.timeout} seconds.")
+renpy.test.types.RenpyTestTimeoutError: TestCase timed out after 120.0 seconds.
+
+macOS-26.4.1-arm64-arm-64bit arm64
+Ren'Py 8.5.2.26010301
+Our Story: A Love Quest 1.0
+Fri May 22 18:13:54 2026

@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 1149: 'background' is not a keyword argument or valid child of the text statement.
+    background Frame("images/ui/button_hover.png", 18, 18)
+              ^
+
+Ren'Py Version: Ren'Py 8.5.2.26010301
+Thu May 21 13:25:40 2026
