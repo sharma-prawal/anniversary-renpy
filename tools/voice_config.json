@@ -1,0 +1,53 @@
+{
+  "outputRoot": "game/audio/voice",
+  "format": "ogg",
+  "sourceFormat": "mp3",
+  "postProcess": {
+    "enabled": true,
+    "codec": "vorbis",
+    "quality": "5",
+    "filters": [
+      "highpass=f=70",
+      "lowpass=f=12500",
+      "equalizer=f=180:t=q:w=0.9:g=1.4",
+      "equalizer=f=3200:t=q:w=1.2:g=-0.7",
+      "acompressor=threshold=-20dB:ratio=1.8:attack=18:release=180:makeup=1.5",
+      "loudnorm=I=-18:TP=-2:LRA=11",
+      "aresample=44100"
+    ]
+  },
+  "speakers": {
+    "p": {
+      "role": "prawal",
+      "name": "Prawal",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "rate": "-7%",
+      "pitch": "-2Hz",
+      "volume": "+0%"
+    },
+    "a": {
+      "role": "aashna",
+      "name": "Aashna",
+      "voice": "en-IN-NeerjaExpressiveNeural",
+      "rate": "-5%",
+      "pitch": "+6Hz",
+      "volume": "+0%"
+    },
+    "n": {
+      "role": "narrator",
+      "name": "Narrator",
+      "voice": "en-US-AvaMultilingualNeural",
+      "rate": "-9%",
+      "pitch": "-2Hz",
+      "volume": "+0%"
+    },
+    "friend": {
+      "role": "friend",
+      "name": "Friend",
+      "voice": "en-US-BrianMultilingualNeural",
+      "rate": "-4%",
+      "pitch": "-1Hz",
+      "volume": "+0%"
+    }
+  }
+}

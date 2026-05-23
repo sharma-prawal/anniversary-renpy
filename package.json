@@ -1,0 +1,32 @@
+{
+  "name": "anniversary-renpy",
+  "version": "1.0.0",
+  "description": "This is a sibling Ren'Py project generated from the existing Phaser project. The Phaser project remains unchanged.",
+  "private": true,
+  "scripts": {
+    "check:source": "node tools/check_source.js",
+    "generate:audio": "node tools/generate_audio_assets.js",
+    "generate:voice-manifest": "node tools/generate_voice_assets.js --manifest-only",
+    "generate:voice": "node tools/generate_voice_assets.js --clean-stale && node tools/inject_voice_statements.js",
+    "generate:voice:dry-run": "node tools/generate_voice_assets.js --dry-run",
+    "inject:voice": "node tools/inject_voice_statements.js",
+    "inject:voice:dry-run": "node tools/inject_voice_statements.js --dry-run",
+    "convert:audio-web": "node tools/convert_audio_for_web.js",
+    "patch:web-shell": "node tools/patch_web_shell.js",
+    "generate:polish": "node tools/generate_polish_assets.js",
+    "prepare:web-assets": "node tools/prepare_web_assets.js",
+    "generate:web-presplash": "node tools/generate_web_presplash.js",
+    "report:payload": "node tools/report_runtime_payload.js",
+    "sanitize:sprites": "node tools/remove_checkerboard_bg.js",
+    "generate": "npm run check:source && node tools/build_from_story.js && node tools/inject_voice_statements.js --if-manifest --skip-missing-assets",
+    "generate:direct": "node tools/build_from_story.js && node tools/inject_voice_statements.js --if-manifest --skip-missing-assets",
+    "test": "npm run check:source"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "pngjs": "^7.0.0"
+  }
+}
