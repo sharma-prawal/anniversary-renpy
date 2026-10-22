@@ -1,6 +1,6 @@
 # Our Story: A Love Quest - Ren'Py Edition
 
-> The Ren'Py visual-novel edition of *Our Story: A Love Quest*, with voice, audio mixing and an itch.io release pipeline.
+> *Our Story: A Love Quest* — a Ren'Py visual novel with voice, audio mixing and an itch.io release pipeline.
 
 **Download & play:** [prawalsharma.itch.io/praashi](https://prawalsharma.itch.io/praashi) (Windows, macOS, Linux)
 
