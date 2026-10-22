@@ -1,5 +1,14 @@
 # Our Story: A Love Quest - Ren'Py Edition
 
+> The Ren'Py visual-novel edition of *Our Story: A Love Quest*, with voice, audio mixing and an itch.io release pipeline.
+
+<p align="center">
+  <img src="docs/screenshots/screen-1.jpg" width="38%" alt="Screenshot" />
+  <img src="docs/screenshots/screen-2.jpg" width="38%" alt="Screenshot" />
+  <img src="docs/screenshots/screen-3.jpg" width="38%" alt="Screenshot" />
+</p>
+
+
 This is a sibling Ren'Py project generated from the existing Phaser project. The Phaser project remains unchanged.
 
 ## Source of Truth
