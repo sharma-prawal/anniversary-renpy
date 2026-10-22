@@ -2,6 +2,8 @@
 
 > The Ren'Py visual-novel edition of *Our Story: A Love Quest*, with voice, audio mixing and an itch.io release pipeline.
 
+**Download & play:** [prawalsharma.itch.io/praashi](https://prawalsharma.itch.io/praashi) (Windows, macOS, Linux)
+
 <p align="center">
   <img src="docs/screenshots/screen-1.jpg" width="38%" alt="Screenshot" />
   <img src="docs/screenshots/screen-2.jpg" width="38%" alt="Screenshot" />
