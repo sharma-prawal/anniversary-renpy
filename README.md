@@ -71,3 +71,7 @@ This app is deployed as a Ren'Py distribution, not as a Node web app:
 4. Upload the generated files from the `*-dists` output folder to your release channel (for example itch.io or Steam).
 
 The npm toolchain is a pre-build step used during development. It is not bundled as a runtime dependency in shipped Ren'Py builds.
+
+## License
+
+Code is released under the [MIT License](LICENSE). Photos, video, artwork, audio and written content are not covered by it: personal media is © Prawal Sharma, all rights reserved, and third-party assets remain under their own licenses.
